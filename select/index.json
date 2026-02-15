@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ザンショ",
+  "base_artist": "YAMORI",
+  "createdAt": "2026-02-15T16:41:25.283356Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ザンショ",
+      "artist": "YAMORI",
+      "has_synced": false,
+      "path": "select/pl_01_ザンショ_YAMORI.txt"
+    }
+  ]
+}
